@@ -1,3 +1,3 @@
-def class Artist 
+class Artist 
   
 end
